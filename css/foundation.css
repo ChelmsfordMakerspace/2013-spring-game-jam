@@ -1081,7 +1081,7 @@ button.button {
     margin-bottom: 1.25em;
     padding: 1.25em;
     background: #6a3996; }
-    .panel.callout h1, .panel.callout h2, .panel.callout h3, .panel.callout h4, .panel.callout h5, .panel.callout h6, .panel.callout p {
+    .panel.callout h1, .panel.callout h2, .panel.callout h3, .panel.callout h4, .panel.callout h5, .panel.callout h6, .panel.callout p, .panel.callout a, .panel.callout a:hover {
       color: white; }
     .panel.callout > :first-child {
       margin-top: 0; }
